@@ -15,6 +15,14 @@ All projects are now consolidated and managed under the **keasbrian-dev** accoun
 
 ---
 
+## Special Thanks to Our Contributors
+
+I want to extend my heartfelt gratitude to all contributors who have helped make Original Demon's work possible. Your support, code, ideas, and dedication to the Cosmos ecosystem mean everything to me.
+
+Thank you for believing in this vision and for your invaluable contributions to this project.
+
+---
+
 ## Support Original Demon
 
 If you find my work valuable or want to support my journey, please consider donating:
@@ -30,8 +38,10 @@ For questions, collaborations, or inquiries, please reach out:
 
 ## Repository Information
 
-This is the Atom repository for Original Demon's work in the Cosmos ecosystem.
+This is the Atom repository for Original Demon's work in the Cosmos ecosystem. I manage 151 chains across the Cosmos Hub.
+
+**GRPC Endpoint:** grpc.atomone.citizenweb3: 443
 
 ---
 
-**Last Updated:** 2026-01-03 20:08:46
+**Last Updated:** 2026-01-04
