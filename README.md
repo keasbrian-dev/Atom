@@ -27,14 +27,14 @@ Thank you for believing in this vision and for your invaluable contributions to 
 
 If you find my work valuable or want to support my journey, please consider donating:
 
-**Cash App:** [$BrianKeas99](https://cash.app/$BrianKeas99)
+
 
 ### Contact Information
 For questions, collaborations, or inquiries, please reach out:
 - **Email 1:** dizbiz1974@gmail.com
 - **Email 2:** nauledjeiskey@gmail.com
 
----
+
 
 ## Repository Information
 
